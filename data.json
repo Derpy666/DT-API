@@ -1,1 +1,256 @@
-{}
+{
+    "weapons": [
+        {
+            "name": "Pork Sword",
+            "damage": 2.5
+        },
+        {
+            "name": "Warped Grenade",
+            "damage": 0.5,
+            "cooldown": 3,
+            "abilityDamage": 1.5
+        },
+        {
+            "name": "Pharaoh's Scimitar",
+            "damage": 3
+        },
+        {
+            "name": "Blowpipe",
+            "damage": 0.5,
+            "cooldown": 0.5,
+            "abilityDamage": 1.25
+        },
+        {
+            "name": "The MIXER",
+            "damage": 0.5,
+            "cooldown": 0.5,
+            "abilityDamage": 7.5
+        },
+        {
+            "name": "Poseidon's Fury",
+            "damage": 4.5,
+            "cooldown": 15,
+            "abilityDamage": 4
+        },
+        {
+            "name": "Galactic Hand Cannon",
+            "damage": 0.5,
+            "cooldown": 20,
+            "abilityDamage": 7.5
+        },
+        {
+            "name": "Pufferfish Gauntlet",
+            "damage": 0.5,
+            "cooldown": 5,
+            "abilityDamage": 5
+        },
+        {
+            "name": "Darker Scythe",
+            "damage": null,
+            "cooldown": null,
+            "abilityDamage": null
+        },
+        {
+            "name": "Beef Blade",
+            "damage": 3.5
+        },
+        {
+            "name": "Vortex Launcher",
+            "damage": 0.5,
+            "cooldown": 5,
+            "abilityDamage": 2
+        },
+        {
+            "name": "Crystaline Blade",
+            "damage": 2,
+            "cooldown": 10,
+            "abilityDamage": 2
+        },
+        {
+            "name": "Burger Blade",
+            "damage": 3.5,
+            "cooldown": 15,
+            "abilityDamage": 1.88
+        },
+        {
+            "name": "Barbed Shotgun",
+            "damage": 0.5,
+            "cooldown": 5,
+            "abilityDamage": 4
+        },
+        {
+            "name": "Midas Bow",
+            "damage": 8
+        },
+        {
+            "name": "Wasted Boomstick",
+            "damage": 0.5,
+            "cooldown": 7,
+            "abilityDamage": 6
+        },
+        {
+            "name": "Bewitched Blowpipe",
+            "damage": 0.5,
+            "cooldown": 0.5,
+            "abilityDamage": 10
+        },
+        {
+            "name": "Arctic's Core",
+            "damage": 4,
+            "cooldown": 2,
+            "abilityDamage": 3
+        },
+        {
+            "name": "Snowball Cannon",
+            "damage": 0.5,
+            "cooldown": 0.5,
+            "abilityDamage": 3
+        },
+        {
+            "name": "Bubble Gun",
+            "damage": 0.5,
+            "cooldown": 0.5,
+            "abilityDamage": 2
+        },
+        {
+            "name": "Flesh Hatchet",
+            "damage": 4,
+            "cooldown": 10,
+            "abilityDamage": 2
+        },
+        {
+            "name": "Carnage Rifle",
+            "damage": 0.5,
+            "cooldown": 0.5,
+            "abilityDamage": 3
+        },
+        {
+            "name": "Flesh Flinger",
+            "damage": 10
+        },
+        {
+            "name": "Shadow Gelato's Drum Gun",
+            "damage": 0.5,
+            "cooldown": 0.5,
+            "abilityDamage": 0.75
+        },
+        {
+            "name": "Dark Scythe",
+            "damage": 5.25
+        },
+        {
+            "name": "The Synthflesh",
+            "damage": 0.5,
+            "cooldown": 3,
+            "abilityDamage": 4.72
+        },
+        {
+            "name": "8-bit Katana",
+            "damage": 4.5,
+            "cooldown": 10,
+            "abilityDamage": 9
+        },
+        {
+            "name": "Laser Point Minigun",
+            "damage": 0.5,
+            "cooldown": 0.5,
+            "abilityDamage": 3
+        },
+        {
+            "name": "Bedrock Breaker",
+            "damage": 4.75,
+            "cooldown": 10,
+            "abilityDamage": 11.25
+        },
+        {
+            "name": "Simulated Blade",
+            "damage": 3
+        },
+        {
+            "name": "Doge Hammer",
+            "damage": 4.75,
+            "cooldown": 3,
+            "abilityDamage": 4
+        },
+        {
+            "name": "Jynx's Chain Gun",
+            "damage": 0.5,
+            "cooldown": 0.5,
+            "abilityDamage": 2.5
+        },
+        {
+            "name": "Dynamite Barrel",
+            "damage": 0.5,
+            "cooldown": 10,
+            "abilityDamage": 15
+        },
+        {
+            "name": "Revolver",
+            "damage": 0.5,
+            "cooldown": 10,
+            "abilityDamage": 15
+        },
+        {
+            "name": "VIRTUASWORD",
+            "damage": 5,
+            "cooldown": 17.5,
+            "abilityDamage": 5.63
+        },
+        {
+            "name": "Glitch Mallet",
+            "damage": 6.25,
+            "cooldown": 15,
+            "abilityDamage": 21.88
+        },
+        {
+            "name": "Zip Bomb",
+            "damage": 0.5,
+            "cooldown": 5,
+            "abilityDamage": 15
+        },
+        {
+            "name": "The Phantasm",
+            "damage": 6,
+            "cooldown": 3,
+            "abilityDamage": 15
+        },
+        {
+            "name": "Gorlock's Battlehammer",
+            "damage": 8.5
+        },
+        {
+            "name": "Wave Pulser",
+            "damage": 0.5,
+            "cooldown": 10,
+            "abilityDamage": 20
+        },
+        {
+            "name": "The Experiment",
+            "damage": 0.5,
+            "cooldown": 6,
+            "abilityDamage": 15
+        },
+        {
+            "name": "Grapplebow",
+            "damage": 9
+        },
+        {
+            "name": "Gore Gauntlet",
+            "damage": 0.5,
+            "cooldown": 10,
+            "abilityDamage": 21.87
+        },
+        {
+            "name": "Star Bomb",
+            "damage": 0.5,
+            "cooldown": 8,
+            "abilityDamage": 26.25
+        },
+        {
+            "name": "Starblade",
+            "damage": null,
+            "cooldown": 5,
+            "abilityDamage": 15
+        }
+    ]
+}
